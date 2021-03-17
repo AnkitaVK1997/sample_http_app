@@ -1,0 +1,7 @@
+http://169.57.56.147:30044/date
+
+http://169.57.56.147:30044/square?a=3
+
+http://169.57.56.147:30044/divide?x=9&y=3
+
+Git repo https://github.com/AnkitaVK1997/ak8344-stern.nyu.edu
